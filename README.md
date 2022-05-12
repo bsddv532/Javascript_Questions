@@ -14,6 +14,8 @@ If we want to find out the data type of any variable then we use typeof operator
 ## Q.2 What is spread operator?
 Spread operator looks like this …
 
+To use spread operator we have to write three dots in a consecutive manner.
+
 It is used to destructure the iterable elements like objects and arrays.
 So for example if you want to create an object whose value should be exactly same 
 
