@@ -29,7 +29,7 @@ console.log(obj2)      //{country: “India”, id:1, name:”Deepak”}
 ---
 ## Q.3 Difference between var , let, const ?
 These are three different ways of creating  or declaring the variables in the JS.
-Out of these three var used to be a part of ES6 or ECMAScript2014 and let and const are the part of latest release of JS version i.e ES6.
+Out of these three var used to be a part of ES5 or ECMAScript2014 and let and const are the part of latest release of JS version i.e ES6.
 
 Differences are :  
 
