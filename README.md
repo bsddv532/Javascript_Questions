@@ -15,7 +15,7 @@ If we want to find out the data type of any variable then we use typeof operator
 Spread operator looks like this …
 
 It is used to destructure the iterable elements like objects and arrays.
-So for example if you want to create and object whose value should be exactly same 
+So for example if you want to create an object whose value should be exactly same 
 
 Let obj1 = {id:1, name: “Deepak”}
 
